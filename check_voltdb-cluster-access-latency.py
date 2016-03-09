@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# VoltDB Cluster Latency Check
+# VoltDB Cluster Access Latency
 # Client Interface Library: 
 # https://github.com/VoltDB/voltdb-client-python/blob/master/voltdbclient.py
 # Ugur Engin -  17 Feb, 2016
