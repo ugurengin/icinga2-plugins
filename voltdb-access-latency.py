@@ -1,8 +1,11 @@
 #!/usr/bin/env python
-# VoltDB Cluster Access Latency
-# Client Interface Library: 
-# https://github.com/VoltDB/voltdb-client-python/blob/master/voltdbclient.py
-# Ugur Engin -  17 Feb, 2016
+
+#################################################################################
+# VoltDB Cluster Access Latency                                                 #
+# Client Interface Library:                                                     #
+# https://github.com/VoltDB/voltdb-client-python/blob/master/voltdbclient.py    #
+# Ugur Engin                                                                    #
+#################################################################################
 
 import os, sys
 from voltdbclient import *
