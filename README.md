@@ -7,12 +7,12 @@ voltdbclient
 
 ### Usage
 ```
-python check_voltdb_access_time.py <voltdb-host>
+python voltdb-access-latency.py <voltdb-host>
 ```
  
 ### Sample Output
 ```
-python ~/plugins/check_voltdb_access_time.py <voltdb-host>
+python ~/plugins/voltdb-access-latency.py <voltdb-host>
 OK- Avr: 0.078648ms Max: 0.128303ms |Avr=0.078648;0;0;0, Max=0.128303;0;0;0
 ```
 
