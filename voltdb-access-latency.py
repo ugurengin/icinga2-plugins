@@ -17,7 +17,7 @@ maxlatencytrigger = 2 * nano     # 2 seconds
 server = str(sys.argv)
 if (len(sys.argv) > 1): server = sys.argv[1]
 else:
-   print "required a host\nexample: python check_voltdb-cluster-latency.py <voltdb-host>"
+   print "required a host\nexample: python voltdb-access-latency.py <voltdb-host>"
    raise SystemExit, 3
 
 client = FastSerializer(server, 21212)
