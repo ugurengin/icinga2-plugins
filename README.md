@@ -29,5 +29,5 @@ Graphite
 Grafana
 ```
 <br>
-<img height="300" width="500" src="https://www.ugurengin.com/blog/wp-content/uploads/2016/03/voltdb-access-time.jpg">
+<img height="250" width="2000" src="https://www.ugurengin.com/blog/wp-content/uploads/2016/03/voltdb-access-time-1.jpg">
 <br>
