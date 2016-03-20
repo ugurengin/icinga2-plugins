@@ -1,0 +1,18 @@
+name: voltdb-access-latency.py
+description: "file:///README.md"
+url: "https://github.com/ugurengin/voltdb-access-time"
+tags: voltdb
+vendor: VoltDB
+target: VoltDB Nodes
+type: Plugin
+license: gplv3
+releases: 
+  - 
+    name: 1.0
+    description: "1.0 Release"
+    files: 
+      - 
+        name: voltdb-access-latency.py
+        url: "file:///voltdb-access-latency.py"
+        description: "First release"
+        checksum: 5e8a8a3ac75de7608135349f75c5a620
