@@ -1,4 +1,4 @@
-name: voltdb-access-latency.py
+name: voltdb-access-latency
 description: "file:///README.md"
 url: "https://github.com/ugurengin/voltdb-access-time"
 tags: voltdb
